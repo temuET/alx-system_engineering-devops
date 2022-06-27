@@ -40,3 +40,8 @@ Words should be sorted
 14. Display the number of lines that contain the pattern “bin” in the file /etc/passwd
 15. Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 16. Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+17. Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+
+
+
+include capital letters as well
