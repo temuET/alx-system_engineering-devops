@@ -45,3 +45,4 @@ Words should be sorted
 
 
 include capital letters as well
+18. Replace all characters A and c from input to Z and e respectively.
