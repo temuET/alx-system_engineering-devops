@@ -53,6 +53,7 @@ include capital letters as well
 
 21. Write a script that displays all users and their home directories, sorted by users.
 
+22. Write a command that finds all empty files and directories in the current directory and all sub-directories.
 
 
 Based on the the /etc/passwd file
