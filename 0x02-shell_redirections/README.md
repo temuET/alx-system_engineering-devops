@@ -46,3 +46,4 @@ Words should be sorted
 
 include capital letters as well
 18. Replace all characters A and c from input to Z and e respectively.
+19. Create a script that removes all letters c and C from input.
