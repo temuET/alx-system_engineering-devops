@@ -56,3 +56,10 @@ Your script file should contain maximum 64 characters
 
 
 The number will be stored in the environment variable NUM.
+15. Write a script that converts a number from base 10 to base 16.
+
+
+
+The number in base 10 is stored in the environment variable DECIMAL
+
+The script should display the number in base 16, followed by a new line
