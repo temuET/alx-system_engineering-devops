@@ -11,3 +11,10 @@
 Name: BEST
 
 Value: School
+8. Create a script that creates a new global variable.
+
+
+
+Name: BEST
+
+Value: School
