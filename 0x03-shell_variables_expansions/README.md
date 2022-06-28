@@ -31,3 +31,10 @@ POWER and DIVIDE are environment variables
 BREATH and LOVE are environment variables
 
 The script should display the result, followed by a new line
+12. Write a script that converts a number from base 2 to base 10.
+
+
+
+The number in base 2 is stored in the environment variable BINARY
+
+The script should display the number in base 10, followed by a new line
